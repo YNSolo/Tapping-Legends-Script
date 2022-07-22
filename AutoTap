@@ -1,4 +1,4 @@
-_G.AutoTap = true
+_G.AutoTap = false
 
 while _G.AutoTap == true do 
 
